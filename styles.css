@@ -1,14 +1,19 @@
-/* This is your CSS file */
-/* Comments look like this. */
 
-/* This ruleset defines the styling for the entire body of your HTML document. */
-body {
-    /* Change this background-color. */
-    background-color: white;
+*{
+    background-color: rgb(238, 238, 127);
+}
+header{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVxhglgomO7qRUdkK5CqyKyKYGquuVaJ29A&s");
 }
 
-/* This defines styling for all your p elements */
+h1{color: darkblue;
+font-family: cursive;}
+h3{color:rgba(93, 123, 219, 0.548);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
-p {
+p{color: black;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 
+li{color: black;
+font-family:monospace;
 }
